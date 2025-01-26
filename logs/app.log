@@ -1,0 +1,755 @@
+{"level":"info","message":"Server started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 15:45:06"}
+{"level":"info","message":"Starting initial data load","timestamp":"2025-01-25 15:45:06"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:45:06"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:45:06"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:45:07"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:45:07"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:45:22"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:45:22"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:45:42"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:45:42"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:46:11"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:46:11"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:46:31"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:46:31"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:47:14"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:47:14"}
+{"level":"info","message":"Starting price update from all providers","timestamp":"2025-01-25 15:47:34"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 15:47:34"}
+{"level":"info","message":"Master process 23888 is running","timestamp":"2025-01-25 16:06:19"}
+{"level":"info","message":"Worker 23902 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Worker 23903 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Worker 23901 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Worker 23900 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:06:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:06:29"}
+{"error":"AWS Timeout","level":"error","message":"AWS fetch failed","timestamp":"2025-01-25 16:06:34"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:06:34"}
+{"error":"AWS Timeout","level":"error","message":"AWS fetch failed","timestamp":"2025-01-25 16:06:34"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:06:34"}
+{"error":"AWS Timeout","level":"error","message":"AWS fetch failed","timestamp":"2025-01-25 16:06:35"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:06:35"}
+{"error":"AWS Timeout","level":"error","message":"AWS fetch failed","timestamp":"2025-01-25 16:06:35"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:06:35"}
+{"duration":"42ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:06:48"}
+{"level":"info","message":"Master process 23991 is running","timestamp":"2025-01-25 16:08:27"}
+{"level":"info","message":"Worker 24004 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:08:37"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:08:37"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:08:37"}
+{"level":"info","message":"Worker 24005 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:08:37"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:08:37"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:08:37"}
+{"level":"info","message":"Worker 24003 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:08:39"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:08:39"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:08:39"}
+{"level":"info","message":"Worker 24006 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:08:39"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:08:39"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:08:39"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 1 failed","timestamp":"2025-01-25 16:08:58"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 1 failed","timestamp":"2025-01-25 16:08:58"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 1 failed","timestamp":"2025-01-25 16:08:59"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:00"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:00"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 1 failed","timestamp":"2025-01-25 16:09:00"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:01"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:02"}
+{"error":"maxContentLength size of 52428800 exceeded","level":"error","message":"Error fetching AWS prices","stack":"AxiosError: maxContentLength size of 52428800 exceeded\n    at IncomingMessage.handleStreamData (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3104:20)\n    at IncomingMessage.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)\n    at HTTPParser.parserOnBody (node:_http_common:131:24)\n    at TLSSocket.socketOnData (node:_http_client:541:22)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchAWSPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/aws.js:9:22)","timeout":false,"timestamp":"2025-01-25 16:09:10"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 2 failed","timestamp":"2025-01-25 16:09:20"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 2 failed","timestamp":"2025-01-25 16:09:20"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 2 failed","timestamp":"2025-01-25 16:09:21"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:22"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 2 failed","timestamp":"2025-01-25 16:09:22"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:22"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:23"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:09:24"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 3 failed","timestamp":"2025-01-25 16:09:42"}
+{"level":"error","message":"All AWS fetch attempts failed","timestamp":"2025-01-25 16:09:42"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:09:42"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 3 failed","timestamp":"2025-01-25 16:09:42"}
+{"level":"error","message":"All AWS fetch attempts failed","timestamp":"2025-01-25 16:09:42"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:09:42"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 3 failed","timestamp":"2025-01-25 16:09:43"}
+{"level":"error","message":"All AWS fetch attempts failed","timestamp":"2025-01-25 16:09:43"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:09:43"}
+{"error":"AWS Timeout","level":"warn","message":"AWS fetch attempt 3 failed","timestamp":"2025-01-25 16:09:44"}
+{"level":"error","message":"All AWS fetch attempts failed","timestamp":"2025-01-25 16:09:44"}
+{"level":"info","message":"Price update completed","providers":{"aws":0,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:09:44"}
+{"level":"info","message":"Master process 24108 is running","timestamp":"2025-01-25 16:10:55"}
+{"level":"info","message":"Worker 24123 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:11:05"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:11:06"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:11:06"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Worker 24122 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:11:05"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:11:06"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:11:06"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Worker 24121 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:11:06"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:11:06"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:11:06"}
+{"level":"info","message":"Worker 24120 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:11:07"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:11:07"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:11:07"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:11:07"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:11:07"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:11:07"}
+{"level":"info","message":"Master process 24270 is running","timestamp":"2025-01-25 16:14:20"}
+{"level":"info","message":"Worker 24286 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Worker 24284 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:14:30"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:14:30"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:14:30"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:14:30"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:14:30"}
+{"level":"info","message":"Worker 24285 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:14:31"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:14:31"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Worker 24282 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:14:31"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:14:31"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:14:31"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:14:31"}
+{"duration":"17ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:14:33"}
+{"duration":"52ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:14:49"}
+{"duration":"71ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:16:35"}
+{"level":"info","message":"Master process 24450 is running","timestamp":"2025-01-25 16:19:19"}
+{"level":"info","message":"Worker 24463 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:19:29"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:19:29"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Worker 24462 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:19:29"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:19:29"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:19:29"}
+{"level":"info","message":"Worker 24465 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:19:30"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:19:30"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Worker 24464 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:19:30"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:19:30"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:19:30"}
+{"level":"info","message":"Master process 24570 is running","timestamp":"2025-01-25 16:20:40"}
+{"level":"info","message":"Worker 24585 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:20:52"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:20:52"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:20:52"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:20:52"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:20:52"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:20:52"}
+{"level":"info","message":"Worker 24582 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:20:53"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:20:53"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Worker 24583 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:20:53"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:20:53"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:20:53"}
+{"level":"info","message":"Worker 24584 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:20:54"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:20:54"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:20:54"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:20:54"}
+{"count":10,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:20:54"}
+{"level":"info","message":"Price update completed","providers":{"aws":10,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:20:54"}
+{"level":"info","message":"Master process 24744 is running","timestamp":"2025-01-25 16:24:08"}
+{"level":"info","message":"Worker 24763 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:24:21"}
+{"instanceCount":15,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:24:21"}
+{"count":15,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Price update completed","providers":{"aws":15,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Worker 24761 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:24:21"}
+{"instanceCount":15,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:24:21"}
+{"count":15,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Price update completed","providers":{"aws":15,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:24:21"}
+{"level":"info","message":"Worker 24762 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:24:22"}
+{"instanceCount":15,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:24:22"}
+{"count":15,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Price update completed","providers":{"aws":15,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Worker 24764 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:24:22"}
+{"instanceCount":15,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:24:22"}
+{"count":15,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:24:22"}
+{"level":"info","message":"Price update completed","providers":{"aws":15,"azure":10,"gcp":10},"timestamp":"2025-01-25 16:24:22"}
+{"duration":"52ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:24:26"}
+{"duration":"36ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:24:35"}
+{"duration":"44ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:25:28"}
+{"level":"info","message":"Master process 24995 is running","timestamp":"2025-01-25 16:29:58"}
+{"level":"info","message":"Worker 25009 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:30:08"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:30:09"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:30:09"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:30:09"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:30:09"}
+{"level":"info","message":"Worker 25010 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:30:09"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:30:09"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:30:09"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:30:09"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:30:09"}
+{"level":"info","message":"Worker 25007 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:30:10"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:30:10"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:30:10"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:30:10"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:30:10"}
+{"level":"info","message":"Worker 25008 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:30:11"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:30:11"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:30:11"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:30:11"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:30:11"}
+{"level":"info","message":"Master process 25161 is running","timestamp":"2025-01-25 16:32:02"}
+{"level":"info","message":"Worker 25173 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:32:13"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:32:13"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Worker 25175 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:32:13"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:32:13"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Worker 25176 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:32:13"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:32:13"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Worker 25174 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:32:13"}
+{"instanceCount":10,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:32:13"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:32:13"}
+{"level":"info","message":"Master process 25242 is running","timestamp":"2025-01-25 16:32:58"}
+{"level":"info","message":"Worker 25254 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:33:08"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:33:08"}
+{"error":"fetchAWSPrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAWSPrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:65:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:33:08"}
+{"level":"info","message":"Worker 25256 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:33:08"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:33:08"}
+{"error":"fetchAWSPrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAWSPrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:65:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:33:08"}
+{"level":"info","message":"Worker 25257 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:33:09"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:33:09"}
+{"error":"fetchAWSPrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAWSPrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:65:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:33:09"}
+{"level":"info","message":"Worker 25255 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:33:09"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:33:09"}
+{"error":"fetchAWSPrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAWSPrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:65:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:33:09"}
+{"level":"info","message":"Master process 25327 is running","timestamp":"2025-01-25 16:35:04"}
+{"level":"info","message":"Worker 25341 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:35:14"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:14"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:14"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:35:14"}
+{"level":"info","message":"Worker 25340 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:35:14"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:14"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:14"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Worker 25342 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:15"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Worker 25339 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:15"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:13)\n    at Object.onceWrapper (node:events:631:28)\n    at Server.emit (node:events:529:35)\n    at emitListeningNT (node:net:1845:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)","timestamp":"2025-01-25 16:35:15"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:31"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:31"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:38\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:346:12)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:280:10)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:56:3","timestamp":"2025-01-25 16:35:31"}
+{"duration":"92ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:35:31"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:39"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:39"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:38\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:346:12)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:280:10)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:56:3","timestamp":"2025-01-25 16:35:39"}
+{"duration":"52ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:35:39"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:35:57"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:35:57"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:38\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:346:12)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:280:10)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:56:3","timestamp":"2025-01-25 16:35:57"}
+{"duration":"78ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:35:57"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:36:05"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:36:05"}
+{"error":"fetchAzurePrices is not a function","level":"error","message":"Price update failed","stack":"TypeError: fetchAzurePrices is not a function\n    at updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:69:7)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:38\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:346:12)\n    at next (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/express/lib/router/index.js:280:10)\n    at /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:56:3","timestamp":"2025-01-25 16:36:05"}
+{"duration":"204ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:36:05"}
+{"level":"info","message":"Master process 25430 is running","timestamp":"2025-01-25 16:36:29"}
+{"level":"info","message":"Worker 25442 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Worker 25445 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:36:39"}
+{"level":"info","message":"Worker 25444 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Worker 25443 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:36:40"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:36:40"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:7:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:36:41"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:7:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:36:42"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:7:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:36:42"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:36:44"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:36:44"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:36:44"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:36:44"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:36:44"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:36:44"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:36:44"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:36:45"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:7:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:36:45"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:36:54"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:36:54"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:36:54"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:36:54"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:7:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:32","timestamp":"2025-01-25 16:36:57"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:37:02"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:37:02"}
+{"level":"info","message":"Master process 25557 is running","timestamp":"2025-01-25 16:38:09"}
+{"level":"info","message":"Worker 25570 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:38:18"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:38:18"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:38:18"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:38:19"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:38:19"}
+{"level":"info","message":"Worker 25572 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:38:18"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:38:18"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:38:18"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:38:19"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:38:19"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:38:20"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:38:20"}
+{"level":"info","message":"Worker 25573 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:38:21"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:38:21"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:38:21"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:38:21"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:38:21"}
+{"level":"info","message":"Worker 25571 started","nodeEnv":"development","port":5000,"timestamp":"2025-01-25 16:38:22"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:38:22"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:38:22"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:38:22"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:38:22"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:38:23"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async Server.<anonymous> (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:190:7)","timestamp":"2025-01-25 16:38:23"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:38:24"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:38:24"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:38:25"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:38:25"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:38:25"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:38:25"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:38:26"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:38:26"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:38:41"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:38:41"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:38:41"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:38:41"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:32","timestamp":"2025-01-25 16:38:42"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:38:45"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:38:45"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:41:05"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:41:05"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:41:05"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:41:05"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:32","timestamp":"2025-01-25 16:41:05"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:41:11"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:41:11"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:42:17"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:42:17"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:42:18"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:42:18"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price processing","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:9:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:64:31)\n    at async /mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:129:32","timestamp":"2025-01-25 16:42:18"}
+{"level":"info","message":"Processing Azure price data","timestamp":"2025-01-25 16:42:21"}
+{"instanceCount":1000,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:42:21"}
+{"level":"info","message":"Master process 25834 is running","timestamp":"2025-01-25 16:46:14"}
+{"level":"info","message":"Worker 25847 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:46:25"}
+{"instanceCount":9,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:46:25"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:46:25"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:46:25"}
+{"count":9,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Price update completed","providers":{"aws":9,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Worker 25849 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:46:25"}
+{"instanceCount":9,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:46:25"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:46:25"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:46:25"}
+{"count":9,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Price update completed","providers":{"aws":9,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:46:25"}
+{"level":"info","message":"Worker 25848 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:46:28"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:46:28"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:46:28"}
+{"instanceCount":9,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:46:28"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:46:28"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:46:28"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:46:28"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:46:28"}
+{"count":9,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:46:28"}
+{"level":"info","message":"Price update completed","providers":{"aws":9,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:46:28"}
+{"level":"info","message":"Worker 25846 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:46:29"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:46:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:46:29"}
+{"instanceCount":9,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:46:29"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:46:29"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:46:29"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:46:29"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:46:29"}
+{"count":9,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:46:29"}
+{"level":"info","message":"Price update completed","providers":{"aws":9,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:46:29"}
+{"duration":"22ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:46:33"}
+{"duration":"25ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:46:39"}
+{"level":"info","message":"Master process 25995 is running","timestamp":"2025-01-25 16:48:47"}
+{"level":"info","message":"Worker 26045 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:48:58"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:48:58"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:48:58"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:48:58"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Price update completed","providers":{"aws":14,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Worker 26048 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:48:58"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:48:58"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:48:58"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:48:58"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Price update completed","providers":{"aws":14,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:48:58"}
+{"level":"info","message":"Worker 26047 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:48:59"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:48:59"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:48:59"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:48:59"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:48:59"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:48:59"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:48:59"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:48:59"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:48:59"}
+{"level":"info","message":"Price update completed","providers":{"aws":14,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:48:59"}
+{"level":"info","message":"Worker 26046 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:49:00"}
+{"level":"info","message":"Starting parallel price update from providers","timestamp":"2025-01-25 16:49:00"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:49:00"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:49:00"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:49:00"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:49:00"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:49:00"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:49:00"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:49:00"}
+{"level":"info","message":"Price update completed","providers":{"aws":14,"azure":8,"gcp":9},"timestamp":"2025-01-25 16:49:00"}
+{"duration":"48ms","level":"info","message":"Request processed","method":"GET","path":"/api/prices","statusCode":200,"timestamp":"2025-01-25 16:49:17"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 16:53:25"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:53:25"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:53:25"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:53:25"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:53:25"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:53:25"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:53:25"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:53:25"}
+{"counts":{"aws":14,"azure":8,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 16:53:25"}
+{"level":"info","message":"Master process 26307 is running","timestamp":"2025-01-25 16:53:25"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:53:35"}
+{"counts":{"aws":14,"azure":8,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Worker 26320 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:53:35"}
+{"counts":{"aws":14,"azure":8,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Worker 26319 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:53:35"}
+{"counts":{"aws":14,"azure":8,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Worker 26321 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":14,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":8,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 16:53:35"}
+{"instanceCount":9,"level":"info","message":"GCP price fetch completed successfully","timestamp":"2025-01-25 16:53:35"}
+{"count":14,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 16:53:35"}
+{"counts":{"aws":14,"azure":8,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Worker 26322 started","nodeEnv":"development","port":"5000","timestamp":"2025-01-25 16:53:35"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:00:46"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:00:46"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:00:46"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:00:46"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:00:48"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price fetch","stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:15:22)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:41:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:138:5)","timestamp":"2025-01-25 17:00:49"}
+{"level":"info","message":"Using fallback GCP prices","timestamp":"2025-01-25 17:00:49"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:01:53"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:01:53"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:01:53"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:01:53"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:01:54"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 17:04:03"}
+{"count":6682,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 17:04:03"}
+{"counts":{"aws":6682,"azure":225,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 17:04:03"}
+{"level":"info","message":"Master process 26670 is running","timestamp":"2025-01-25 17:04:03"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:04:15"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:04:16"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:04:16"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:04:16"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:04:17"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:04:17"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:04:16"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:04:16"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:04:17"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:04:17"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:04:23"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:04:23"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:04:24"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:06:26"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:06:26"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:06:26"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:06:26"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:06:27"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:07:24"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:07:24"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:07:24"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:07:24"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:07:26"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 17:09:44"}
+{"count":6682,"level":"info","message":"Caching AWS data","timestamp":"2025-01-25 17:09:44"}
+{"counts":{"aws":6682,"azure":225,"gcp":9},"level":"info","message":"Price update completed","timestamp":"2025-01-25 17:09:44"}
+{"level":"info","message":"Master process 26950 is running","timestamp":"2025-01-25 17:09:44"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:10:13"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:10:13"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:10:13"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:10:13"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:10:14"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:10:14"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:10:14"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:10:14"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:10:15"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:10:16"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:10:16"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:10:17"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:10:17"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:10:16"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:10:16"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:10:17"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:10:17"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:10:20"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:10:21"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:10:22"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-25 17:13:13"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 17:13:13"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 17:13:13"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 17:13:13"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 17:13:13"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 17:13:14"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 17:15:19"}
+{"awsCount":6682,"azureCount":225,"gcpCount":9,"level":"info","message":"Price update completed","timestamp":"2025-01-25 17:15:19"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-25 17:15:19"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-25 23:15:19"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-25 23:15:19"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-25 23:15:19"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-25 23:15:19"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-25 23:15:20"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-25 23:17:22"}
+{"awsCount":6682,"azureCount":225,"gcpCount":9,"level":"info","message":"Price update completed","timestamp":"2025-01-25 23:17:22"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 01:38:29"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 01:38:29"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 01:38:29"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 01:38:29"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 01:38:29"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 01:38:31"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price fetch","response":{"error":{"code":400,"details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","domain":"googleapis.com","metadata":{"service":"cloudbilling.googleapis.com"},"reason":"API_KEY_INVALID"},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}],"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT"}},"stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:31:24)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:42:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:112:5)","timestamp":"2025-01-26 01:38:32"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 01:40:23"}
+{"awsCount":6682,"azureCount":225,"gcpCount":1,"level":"info","message":"Price update completed","timestamp":"2025-01-26 01:40:23"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 01:40:23"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 01:46:51"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 01:46:51"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 01:46:51"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 01:46:51"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 01:46:51"}
+{"level":"info","message":"Successfully fetched 3 GCP instances","timestamp":"2025-01-26 01:46:51"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 01:46:52"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 01:48:56"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 01:48:56"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 01:48:56"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 01:48:56"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 01:48:56"}
+{"level":"info","message":"Successfully fetched 13 GCP instances","timestamp":"2025-01-26 01:48:56"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 01:49:07"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 01:50:42"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 01:50:42"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 01:50:42"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 01:50:43"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 01:50:43"}
+{"level":"info","message":"Successfully fetched 28 GCP instances and services","timestamp":"2025-01-26 01:50:43"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 01:50:44"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 01:52:42"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 01:52:42"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 01:52:42"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 01:52:42"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 01:52:42"}
+{"level":"info","message":"Successfully fetched 28 GCP instances and services","timestamp":"2025-01-26 01:52:42"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 01:53:16"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 01:53:16"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 01:53:16"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 01:53:16"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 01:53:16"}
+{"level":"info","message":"Successfully fetched 28 GCP instances and services","timestamp":"2025-01-26 01:53:16"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 01:53:17"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 01:55:03"}
+{"awsCount":6682,"azureCount":225,"gcpCount":28,"level":"info","message":"Price update completed","timestamp":"2025-01-26 01:55:03"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 01:55:03"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:00:43"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:00:43"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:00:43"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:00:43"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:00:43"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:00:45"}
+{"error":"Request failed with status code 400","level":"error","message":"Error in GCP price fetch:","response":{"error":{"code":400,"details":[{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"description":"Invalid JSON payload received. Unknown name \"filter\": Cannot bind query parameter. Field 'filter' could not be found in request message."}]}],"message":"Invalid JSON payload received. Unknown name \"filter\": Cannot bind query parameter. Field 'filter' could not be found in request message.","status":"INVALID_ARGUMENT"}},"stack":"AxiosError: Request failed with status code 400\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at Unzip.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at Unzip.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:10:29)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:43:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:125:5)","timestamp":"2025-01-26 02:00:46"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 02:02:32"}
+{"awsCount":6682,"azureCount":225,"gcpCount":28,"level":"info","message":"Price update completed","timestamp":"2025-01-26 02:02:32"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 02:02:32"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:04:56"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:04:56"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:04:56"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:04:56"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:04:56"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:04:58"}
+{"error":"Request failed with status code 404","level":"error","message":"Error in GCP price fetch:","response":"<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>404.</b> <ins>That’s an error.</ins>\n  <p>The requested URL <code>/v1beta/services/6F81-5844-456A/skus</code> was not found on this server.  <ins>That’s all we know.</ins>\n","stack":"AxiosError: Request failed with status code 404\n    at settle (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:2026:12)\n    at IncomingMessage.handleStreamEnd (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:3142:11)\n    at IncomingMessage.emit (node:events:529:35)\n    at endReadableNT (node:internal/streams/readable:1400:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/axios/dist/node/axios.cjs:4252:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:10:29)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:43:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:125:5)","status":404,"timestamp":"2025-01-26 02:04:58"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:04:58"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:11:21"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:11:21"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:11:21"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:11:21"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:11:21"}
+{"level":"error","message":"Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.","stack":"Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.\n    at GoogleAuth.getApplicationDefaultAsync (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:287:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async GoogleAuth._GoogleAuth_determineClient (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:834:32)\n    at async GoogleAuth.getClient (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:698:20)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:65:20)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:42:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:112:5)","timestamp":"2025-01-26 02:11:22"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:11:22"}
+{"error":"getStaticGCPData is not defined","level":"error","message":"GCP fetch failed","timestamp":"2025-01-26 02:11:22"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:11:22"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 02:13:16"}
+{"awsCount":6682,"azureCount":225,"gcpCount":0,"level":"info","message":"Price update completed","timestamp":"2025-01-26 02:13:16"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 02:13:16"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:13:28"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:13:28"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:13:28"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:13:28"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:13:28"}
+{"level":"error","message":"Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.","stack":"Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.\n    at GoogleAuth.getApplicationDefaultAsync (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:287:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async GoogleAuth._GoogleAuth_determineClient (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:834:32)\n    at async GoogleAuth.getClient (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:698:20)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:65:20)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:42:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:112:5)","timestamp":"2025-01-26 02:13:29"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:13:29"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:13:30"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:13:57"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:13:57"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:13:57"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:13:57"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:13:57"}
+{"level":"error","message":"Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.","stack":"Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.\n    at GoogleAuth.getApplicationDefaultAsync (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:287:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async GoogleAuth._GoogleAuth_determineClient (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:834:32)\n    at async GoogleAuth.getClient (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/node_modules/google-auth-library/build/src/auth/googleauth.js:698:20)\n    at async fetchGCPPrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/services/gcp.js:65:20)\n    at async Promise.all (index 2)\n    at async updatePrices (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:42:31)\n    at async initializeServer (/mnt/c/Users/PALNAR/Downloads/cloud-price-dashboard/backend/server.js:112:5)","timestamp":"2025-01-26 02:13:57"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:13:57"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:13:58"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 02:15:45"}
+{"awsCount":6682,"azureCount":225,"gcpCount":10,"level":"info","message":"Price update completed","timestamp":"2025-01-26 02:15:45"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 02:15:45"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:16:59"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:16:59"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:16:59"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:16:59"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:16:59"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:17:00"}
+{"level":"error","message":"Request failed with status code 400","service":"6F81-5844-456A","timestamp":"2025-01-26 02:17:01"}
+{"level":"error","message":"Request failed with status code 400","service":"E9A7-4E7B-0122","timestamp":"2025-01-26 02:17:04"}
+{"level":"error","message":"Request failed with status code 400","service":"4E71-2E5F-F32E","timestamp":"2025-01-26 02:17:06"}
+{"level":"info","message":"Successfully fetched 0 GCP instances and services","timestamp":"2025-01-26 02:17:07"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 02:18:51"}
+{"awsCount":6682,"azureCount":225,"gcpCount":0,"level":"info","message":"Price update completed","timestamp":"2025-01-26 02:18:51"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 02:18:51"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:19:48"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:19:48"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:19:48"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:19:48"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:19:48"}
+{"data":"<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>404.</b> <ins>That’s an error.</ins>\n  <p>The requested URL <code>/gcppricing/v1/calculatorpricing</code> was not found on this server.  <ins>That’s all we know.</ins>\n","level":"error","message":"Request failed with status code 404","status":404,"timestamp":"2025-01-26 02:19:49"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:19:49"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:19:50"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:21:33"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:21:33"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:21:33"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:21:33"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:21:33"}
+{"data":"<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>404.</b> <ins>That’s an error.</ins>\n  <p>The requested URL <code>/static/data/pricelist.json</code> was not found on this server.  <ins>That’s all we know.</ins>\n","level":"error","message":"Request failed with status code 404","status":404,"timestamp":"2025-01-26 02:21:34"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:21:34"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:21:34"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 02:23:21"}
+{"awsCount":6682,"azureCount":225,"gcpCount":6,"level":"info","message":"Price update completed","timestamp":"2025-01-26 02:23:21"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 02:23:21"}
+{"level":"info","message":"Initializing server","timestamp":"2025-01-26 02:56:59"}
+{"level":"info","message":"Starting price update","timestamp":"2025-01-26 02:56:59"}
+{"level":"info","message":"Starting AWS price fetch","timestamp":"2025-01-26 02:56:59"}
+{"level":"info","message":"Starting Azure price fetch","timestamp":"2025-01-26 02:56:59"}
+{"level":"info","message":"Starting GCP price fetch","timestamp":"2025-01-26 02:56:59"}
+{"data":"<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}\n  </style>\n  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>\n  <p><b>404.</b> <ins>That’s an error.</ins>\n  <p>The requested URL <code>/static/data/pricelist.json</code> was not found on this server.  <ins>That’s all we know.</ins>\n","level":"error","message":"Request failed with status code 404","status":404,"timestamp":"2025-01-26 02:57:00"}
+{"level":"info","message":"Falling back to static GCP data","timestamp":"2025-01-26 02:57:00"}
+{"instanceCount":225,"level":"info","message":"Azure price fetch completed successfully","timestamp":"2025-01-26 02:57:00"}
+{"instanceCount":6682,"level":"info","message":"AWS price fetch completed successfully","timestamp":"2025-01-26 02:58:51"}
+{"awsCount":6682,"azureCount":225,"gcpCount":6,"level":"info","message":"Price update completed","timestamp":"2025-01-26 02:58:51"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-01-26 02:58:51"}
