@@ -1,56 +1,111 @@
-# Cloud Price Working Dashboard
+# Cloud Price Dashboard - Frontend
 
-A real-time cloud pricing comparison dashboard that fetches and displays pricing data from major cloud providers:
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Platform (GCP)
+A modern React-based frontend for comparing cloud pricing across AWS, Azure, and GCP.
 
 ## Features
 
-- Real-time pricing data from cloud provider APIs
-- Compare instance types across providers
-- Filter by:
+- Real-time price comparison
+- Interactive filtering:
   - Instance type (General Purpose, Compute Optimized, Memory Optimized)
   - vCPU count
   - Memory size
   - Region
-- Price comparison in hourly, monthly, and yearly formats
+- Responsive design
+- Price display in multiple formats:
+  - Hourly
+  - Monthly
+  - Yearly
+- Modern UI with sorting and filtering capabilities
 
-## Setup
+## Prerequisites
 
-### Backend
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+- Backend service running (see backend README)
+
+## Installation
+
+1. Clone the repository:
 ```bash
-cd backend
+git clone https://github.com/deepeshiitjaiswal/cloud-price-working-dashboard.git
+cd cloud-price-working-dashboard/frontend
+```
+
+2. Install dependencies:
+```bash
 npm install
+```
+
+3. Create `.env` file:
+```bash
+cp .env.example .env
+```
+
+4. Configure environment variables in `.env`:
+```
+REACT_APP_API_URL=http://localhost:5000/api
+```
+
+## Running the Application
+
+Development mode:
+```bash
 npm start
 ```
 
-### Frontend
+Build for production:
 ```bash
-cd frontend
-npm install
-npm start
+npm run build
 ```
 
-## Environment Variables
+## Project Structure
 
-Create a `.env` file in the backend directory with:
 ```
-PORT=5000
-AWS_REGION=us-east-1
-AZURE_FILTER="serviceName eq 'Virtual Machines' and priceType eq 'Consumption'"
+frontend/
+├── public/          # Static files
+├── src/             # Source files
+│   ├── components/  # React components
+│   ├── styles/      # CSS styles
+│   ├── utils/       # Utility functions
+│   ├── App.js       # Main App component
+│   └── index.js     # Entry point
+└── package.json     # Dependencies and scripts
 ```
 
-## API Endpoints
+## Components
 
-- `GET /api/prices`: Get pricing data from all cloud providers
-- `GET /api/prices/aws`: Get AWS pricing data
-- `GET /api/prices/azure`: Get Azure pricing data
-- `GET /api/prices/gcp`: Get GCP pricing data
+### PriceComparison
+Main component for displaying and comparing cloud prices.
+- Fetches data from backend API
+- Implements filtering and sorting
+- Displays pricing in a table format
 
-## Technologies
+### Features:
+- Sort by any column
+- Filter by:
+  - Provider
+  - Instance Type
+  - vCPU
+  - Memory
+  - Price Range
+- Export data to CSV
+- Responsive design for mobile devices
 
-- Frontend: React.js
-- Backend: Node.js, Express
-- APIs: AWS Price List API, Azure Retail Prices API, GCP Calculator API
-# cloud-price-working-dashboard
+## Styling
+
+The application uses:
+- CSS Modules for component-specific styles
+- Responsive design principles
+- Modern UI/UX practices
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## License
+
+This project is licensed under the MIT License.
