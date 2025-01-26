@@ -1,0 +1,269 @@
+:root {
+  --primary-color: #007bff;
+  --background-color: #ffffff;
+  --card-background: #f8f9fa;
+  --text-color: #333333;
+  --border-color: #dee2e6;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --hover-color: #f1f3f5;
+}
+
+.dark-mode {
+  --primary-color: #4dabf7;
+  --background-color: #1a1a1a;
+  --card-background: #2d2d2d;
+  --text-color: #e0e0e0;
+  --border-color: #404040;
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --hover-color: #363636;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.price-dashboard {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: var(--background-color);
+}
+
+.dashboard-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.dashboard-header h1 {
+  font-size: 2.5rem;
+  color: var(--text-color);
+  margin-bottom: 1.5rem;
+}
+
+.search-bar {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 12px 20px;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.search-bar input:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+}
+
+.provider-filters {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.provider-filters button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--card-background);
+  color: var(--text-color);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.provider-filters button.active {
+  background: var(--primary-color);
+  color: white;
+}
+
+.price-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.price-card {
+  background: var(--card-background);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.price-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.price-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, #FF9900, #008AD7, #4285F4);
+}
+
+.card-header {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.card-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--text-color);
+  line-height: 1.4;
+}
+
+.provider-badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-body p {
+  margin: 8px 0;
+  font-size: 0.95rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-body p strong {
+  color: var(--text-color);
+  opacity: 0.7;
+}
+
+.price-details {
+  margin-top: 15px;
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.price-value {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #2ecc71;
+  margin: 10px 0;
+}
+
+.dark-mode .price-value {
+  color: #00ff95;
+}
+
+.price-display-options {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.price-display-options button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  background: var(--card-background);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  color: var(--text-color);
+}
+
+.price-display-options button:hover {
+  background: var(--hover-color);
+}
+
+.price-display-options button.active {
+  background: var(--primary-color);
+  color: white;
+}
+
+.loading-container {
+  text-align: center;
+  padding: 3rem;
+  background-color: var(--card-background);
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.loader {
+  border: 4px solid var(--border-color);
+  border-top: 4px solid var(--primary-color);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: 0 auto 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.error-container {
+  text-align: center;
+  padding: 2rem;
+  color: #e74c3c;
+  background-color: var(--card-background);
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.error-container button {
+  margin-top: 1rem;
+  padding: 8px 16px;
+  background: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.error-container button:hover {
+  background: #c0392b;
+}
