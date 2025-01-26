@@ -53,3 +53,4 @@ AZURE_FILTER="serviceName eq 'Virtual Machines' and priceType eq 'Consumption'"
 - Frontend: React.js
 - Backend: Node.js, Express
 - APIs: AWS Price List API, Azure Retail Prices API, GCP Calculator API
+# cloud-price-working-dashboard
